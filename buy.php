@@ -207,7 +207,7 @@
 
         /* Navbar */
         .navbar {
-            background-color: ;
+            background-color: #f5f5f5;
             padding: 10px 20px;
             border-bottom: 1px solid #ddd;
             display: flex;

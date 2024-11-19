@@ -72,8 +72,8 @@ if (strpos($path, 'services-') !== false) {
                         Sell
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="sellDropdown">
-                        <li><a class="dropdown-item" href="#">Post Property</a></li>
-                        <li><a class="dropdown-item" href="#">Ad packages</a></li>
+                        <li><a class="dropdown-item" href="sell.php">Post Property</a></li>
+                        <li><a class="dropdown-item" href="ad-pakages.php">Ad packages</a></li>
                         <li><a class="dropdown-item" href="#">Sales enquiry</a></li>
                     </ul>
                 </li>
